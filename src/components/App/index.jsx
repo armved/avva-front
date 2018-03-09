@@ -3,8 +3,7 @@ import './styles.css';
 
 const App = () => (
   <div>
-    {/* Your code here */}
-    <h1 className="title">React-Avate!</h1>
+    <h1 className="title">Githuber!</h1>
   </div>
 );
 
