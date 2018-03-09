@@ -1,3 +1,3 @@
-# React-Avate - Boilerplate ruled by modern standarts
+# Githuber - app for discovering github accounts
 
 ## In Progress...
