@@ -1,7 +1,7 @@
 {
-  "name": "react-avate",
+  "name": "githuber-front",
   "version": "1.0.0",
-  "description": "React boilerplate ruled by modern standarts",
+  "description": "Githuber - app for discovering your github account",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot",
@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AvoJFB/react-avate.git"
+    "url": "git+https://github.com/armved/githuber-front.git"
   },
   "keywords": [
-    "react",
-    "boilerplate"
+    "github",
+    "stats"
   ],
-  "author": "avojfb",
+  "author": "armved",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AvoJFB/react-avate/issues"
+    "url": "https://github.com/armved/githuber-front/issues"
   },
-  "homepage": "https://github.com/AvoJFB/react-avate#readme",
+  "homepage": "https://github.com/armved/githuber-front#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-eslint": "^8.2.2",
